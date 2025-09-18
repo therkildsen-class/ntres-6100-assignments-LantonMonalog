@@ -21,3 +21,4 @@ Assignment#  |  Fully completed |  Partially completed  | Not completed |
 7  |    |    |    |  
 8  |    |    |    |  
 9  |    |    |    |  
+Assignment 3: https://lantonmonalog.github.io/assignment-3-ctc222/
